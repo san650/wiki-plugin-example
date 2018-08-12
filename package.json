@@ -1,0 +1,24 @@
+{
+  "name": "wiki-plugin-example",
+  "version": "1.0.0",
+  "description": "FedWiki plugin example to show how to build client side plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/san650/wiki-plugin-example.git"
+  },
+  "keywords": [
+    "wiki",
+    "fedwiki",
+    "plugin"
+  ],
+  "author": "Santiago Ferreira <san650@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/san650/wiki-plugin-example/issues"
+  },
+  "homepage": "https://github.com/san650/wiki-plugin-example#readme"
+}
